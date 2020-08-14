@@ -1,0 +1,74 @@
+D:\Unity projects\SQLContactsApp\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Unity projects\SQLContactsApp\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Unity projects\SQLContactsApp\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Unity projects\SQLContactsApp\bin\Release\SQLContactsApp.exe.config
+D:\Unity projects\SQLContactsApp\bin\Release\SQLContactsApp.exe
+D:\Unity projects\SQLContactsApp\bin\Release\SQLContactsApp.pdb
+D:\Unity projects\SQLContactsApp\bin\Release\SQLite-net.dll
+D:\Unity projects\SQLContactsApp\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Unity projects\SQLContactsApp\bin\Release\SQLitePCLRaw.core.dll
+D:\Unity projects\SQLContactsApp\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Unity projects\SQLContactsApp\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Unity projects\SQLContactsApp\bin\Release\System.Buffers.dll
+D:\Unity projects\SQLContactsApp\bin\Release\System.Memory.dll
+D:\Unity projects\SQLContactsApp\bin\Release\System.Numerics.Vectors.dll
+D:\Unity projects\SQLContactsApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Unity projects\SQLContactsApp\bin\Release\SQLite-net.xml
+D:\Unity projects\SQLContactsApp\bin\Release\System.Buffers.xml
+D:\Unity projects\SQLContactsApp\bin\Release\System.Memory.xml
+D:\Unity projects\SQLContactsApp\bin\Release\System.Numerics.Vectors.xml
+D:\Unity projects\SQLContactsApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.csprojAssemblyReference.cache
+D:\Unity projects\SQLContactsApp\obj\Release\ContactDetailsWindow.g.cs
+D:\Unity projects\SQLContactsApp\obj\Release\MainWindow.g.cs
+D:\Unity projects\SQLContactsApp\obj\Release\NewContactWindow.g.cs
+D:\Unity projects\SQLContactsApp\obj\Release\App.g.cs
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp_Content.g.cs
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp_MarkupCompile.cache
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp_MarkupCompile.lref
+D:\Unity projects\SQLContactsApp\obj\Release\ContactDetailsWindow.baml
+D:\Unity projects\SQLContactsApp\obj\Release\MainWindow.baml
+D:\Unity projects\SQLContactsApp\obj\Release\NewContactWindow.baml
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.g.resources
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.Properties.Resources.resources
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.csproj.GenerateResource.cache
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.csproj.CopyComplete
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.exe
+D:\Unity projects\SQLContactsApp\obj\Release\SQLContactsApp.pdb
+D:\WPF_Projects\SQLContactsApp\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLContactsApp.exe.config
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLContactsApp.exe
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLContactsApp.pdb
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLite-net.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLitePCLRaw.core.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Buffers.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Memory.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Numerics.Vectors.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\WPF_Projects\SQLContactsApp\bin\Release\SQLite-net.xml
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Buffers.xml
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Memory.xml
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Numerics.Vectors.xml
+D:\WPF_Projects\SQLContactsApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.csprojAssemblyReference.cache
+D:\WPF_Projects\SQLContactsApp\obj\Release\ContactDetailsWindow.g.cs
+D:\WPF_Projects\SQLContactsApp\obj\Release\MainWindow.g.cs
+D:\WPF_Projects\SQLContactsApp\obj\Release\NewContactWindow.g.cs
+D:\WPF_Projects\SQLContactsApp\obj\Release\App.g.cs
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp_Content.g.cs
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp_MarkupCompile.cache
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp_MarkupCompile.lref
+D:\WPF_Projects\SQLContactsApp\obj\Release\ContactDetailsWindow.baml
+D:\WPF_Projects\SQLContactsApp\obj\Release\MainWindow.baml
+D:\WPF_Projects\SQLContactsApp\obj\Release\NewContactWindow.baml
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.g.resources
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.Properties.Resources.resources
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.csproj.GenerateResource.cache
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.csproj.CopyComplete
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.exe
+D:\WPF_Projects\SQLContactsApp\obj\Release\SQLContactsApp.pdb
